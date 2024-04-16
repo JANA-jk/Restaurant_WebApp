@@ -1,0 +1,83 @@
+.tab{
+ background-color: rgba(240, 248, 255, 0.245);
+
+ padding:  0px 100px;
+ width: 100%;
+ height: 30%;
+ 
+ text-decoration: none;
+ border-radius: 20px;
+ padding-left:40px;
+ padding-right: 40PX;
+
+}
+
+td{
+  padding: 10px 10px;
+  /* background-color: rgba(222, 153, 49);
+  border-radius: 20px; */
+  width: 10px;
+}
+a{
+  text-decoration: none;
+  }
+
+  body{
+   background-image: url(https://img.freepik.com/free-photo/delicious-meal-table_23-2150857956.jpg?t=st=1713087301~exp=1713090901~hmac=fe101b4a21fa15df8688ce64d6948ba069a26f698b0a079362b1c46a7954a28c&w=1380);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 0px;
+}
+#a{
+ border: 0%;
+ font-size: 50px; 
+      font-weight:bolder;
+      line-height: 3;
+ color: #ff8000;
+ text-shadow:0px 5px 10px rgba(0, 0, 0, 0.511);
+}
+#b,#c,#d{
+  padding: 7px 8px ;
+  background-color: rgb(255, 106, 0);
+  border-radius: 10px;
+  color: white;
+
+}
+#e{
+  color: white;
+}
+#m1{
+  text-shadow: 1px 3px 8PX darkred;
+  color:coral;
+  font-size: 18px; /* Increase text size */
+      font-weight: bold; /* Increase text weight */
+      line-height: 1.5;
+}
+
+
+form{
+  
+  padding: 50px;
+  width: 28rem;
+  height: 20REM;
+  background-color: aliceblue;
+  border-radius: 20PX;
+ 
+ 
+}
+#par::first-letter{
+  color: #ff8000;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.BU{
+   padding: 10PX 40PX;
+   letter-spacing: 10PX;
+   border-radius: 30PX;
+   background-color: #ff8000;
+  }
+
+
+  #DATE{
+   padding-right: 80PX;
+  }
